@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SauceDemo" >
+    <test name="TC0.1 - TC0.4 - Page Objects Testing">
+        <classes>
+            <class name="test.TC0/>
+        </classes>
+    </test>
+    <test name="TC0.1 - TC0.4 - Page Objects Testing">
+        <classes>
+            <class name="test.TC0/>
+        </classes>
+    </test>
+</suite>
